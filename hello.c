@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("hello world from ubuntu program! 20150707\r\n");    
+}
+
+
